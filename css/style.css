@@ -105,14 +105,14 @@ header h2 {
 }
 
 section > p,
-#more > li,
+.more > li,
 .title,
 #id,
 .btn {
   font-family: "Montserrat", sans-serif;
 }
 
-#more {
+.more {
   display: none;
 }
 
